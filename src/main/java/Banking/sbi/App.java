@@ -13,5 +13,9 @@ public class App
         logger.error("error");
         System.out.println("new line");
         System.out.println("second line");
+        System.out.println("next line");
+        System.out.println("third line");
+        System.out.println("fouth line");
+       
     }
 }

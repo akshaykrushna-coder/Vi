@@ -12,5 +12,6 @@ public class App
         logger.info("iformation");
         logger.error("error");
         System.out.println("new line");
+        System.out.println("second line");
     }
 }

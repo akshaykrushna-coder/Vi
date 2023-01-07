@@ -11,5 +11,6 @@ public class App
         System.out.println("hello");
         logger.info("iformation");
         logger.error("error");
+        System.out.println("new line");
     }
 }
